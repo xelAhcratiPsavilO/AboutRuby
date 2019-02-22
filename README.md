@@ -1,10 +1,10 @@
 # AboutRuby
 
 ### INDEX
-- Basic Concepts.
-- Control Structures.
-- Collections.
-- Methods.
-- Object Oriented Programming.
-- Modules, Mixing, Standard Classes.
-- Working with Files.
+- Basic Concepts(here).
+- Control Structures(here).
+- Collections(here).
+- Methods(here).
+- Object Oriented Programming(here).
+- Modules, Mixing, Standard Classes(here).
+- Working with Files(here).
