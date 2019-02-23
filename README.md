@@ -3,7 +3,7 @@
 ### INDEX
 - Basic Concepts([here](basic_concepts.md)).
 - Control Structures([here](control_structures.md)).
-- Collections(here).
+- Collections([here](collections.md)).
 - Methods(here).
 - Object Oriented Programming(here).
 - Modules, Mixing, Standard Classes(here).
