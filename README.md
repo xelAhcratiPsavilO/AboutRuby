@@ -6,5 +6,5 @@
 - Collections([here](collections.md)).
 - Methods([here](methods.md)).
 - Object Oriented Programming([here](OOP.md)).
-- Modules, Mixing, Standard Classes(here).
+- Modules, Mixing, Standard Classes([here](modules_mixing_stadard_classes.md)).
 - Working with Files(here).
