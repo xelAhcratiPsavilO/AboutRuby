@@ -1,7 +1,7 @@
 # AboutRuby
 
 ### INDEX
-- Basic Concepts(here).
+- Basic Concepts([here](basic_concepts.md)).
 - Control Structures(here).
 - Collections(here).
 - Methods(here).
