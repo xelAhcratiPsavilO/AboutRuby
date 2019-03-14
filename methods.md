@@ -1,1 +1,1 @@
-# Methods
+# Methods 📐
